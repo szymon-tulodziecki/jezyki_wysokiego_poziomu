@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jezyki_wysokiego_poziomu/lab4/static/css/main.02c21334.css",
-    "main.js": "/jezyki_wysokiego_poziomu/lab4/static/js/main.ec2bbca7.js",
-    "static/js/453.ed3810f9.chunk.js": "/jezyki_wysokiego_poziomu/lab4/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/jezyki_wysokiego_poziomu/lab4/index.html",
-    "main.02c21334.css.map": "/jezyki_wysokiego_poziomu/lab4/static/css/main.02c21334.css.map",
-    "main.ec2bbca7.js.map": "/jezyki_wysokiego_poziomu/lab4/static/js/main.ec2bbca7.js.map",
-    "453.ed3810f9.chunk.js.map": "/jezyki_wysokiego_poziomu/lab4/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/jezyki_wysokiego_poziomu/lab4prod/static/css/main.02c21334.css",
+    "main.js": "/jezyki_wysokiego_poziomu/lab4prod/static/js/main.4be2fc39.js",
+    "static/js/453.ed3810f9.chunk.js": "/jezyki_wysokiego_poziomu/lab4prod/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/jezyki_wysokiego_poziomu/lab4prod/index.html",
+    "main.02c21334.css.map": "/jezyki_wysokiego_poziomu/lab4prod/static/css/main.02c21334.css.map",
+    "main.4be2fc39.js.map": "/jezyki_wysokiego_poziomu/lab4prod/static/js/main.4be2fc39.js.map",
+    "453.ed3810f9.chunk.js.map": "/jezyki_wysokiego_poziomu/lab4prod/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02c21334.css",
-    "static/js/main.ec2bbca7.js"
+    "static/js/main.4be2fc39.js"
   ]
 }
