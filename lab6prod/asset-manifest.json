@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jezyki_wysokiego_poziomu/lab6prod/static/css/main.add10bf4.css",
+    "main.js": "/jezyki_wysokiego_poziomu/lab6prod/static/js/main.2a0e0f98.js",
+    "static/js/453.ed3810f9.chunk.js": "/jezyki_wysokiego_poziomu/lab6prod/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/jezyki_wysokiego_poziomu/lab6prod/index.html",
+    "main.add10bf4.css.map": "/jezyki_wysokiego_poziomu/lab6prod/static/css/main.add10bf4.css.map",
+    "main.2a0e0f98.js.map": "/jezyki_wysokiego_poziomu/lab6prod/static/js/main.2a0e0f98.js.map",
+    "453.ed3810f9.chunk.js.map": "/jezyki_wysokiego_poziomu/lab6prod/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add10bf4.css",
+    "static/js/main.2a0e0f98.js"
+  ]
+}
