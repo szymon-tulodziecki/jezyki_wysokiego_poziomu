@@ -109,6 +109,35 @@ export default function Main() {
               </span>
             </div>
           </a>
+
+          <a 
+            href="https://nextjslab7.netlify.app/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="group bg-white dark:bg-gray-800 p-8 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border-2 border-transparent hover:border-indigo-500"
+          >
+            <div className="flex items-center justify-between mb-4">
+              <h3 className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
+                Lab 7
+              </h3>
+              <svg className="w-6 h-6 text-indigo-600 dark:text-indigo-400 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
+            </div>
+            <h4 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">
+              Wykonanie laboratorium nr 7
+            </h4>
+            <p className="text-gray-600 dark:text-gray-400 mb-4">
+            </p>
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-indigo-100 dark:bg-indigo-900 text-indigo-600 dark:text-indigo-300 text-xs font-semibold rounded-full">
+                Next.js
+              </span>
+              <span className="px-3 py-1 bg-purple-100 dark:bg-purple-900 text-purple-600 dark:text-purple-300 text-xs font-semibold rounded-full">
+                React
+              </span>
+            </div>
+          </a>
         </div>
       </div>
     </main>
